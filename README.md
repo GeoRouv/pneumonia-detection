@@ -39,4 +39,8 @@ Diagnosis is often based on symptoms and physical examination. An important test
 
 <div><img src="cnn.png" width="500"></div><br>
 
+CNNs are deep neural networks for which the primarily used input is images. CNNs learn the filters (features) that are hand-engineered in traditional algorithms. This independence from prior knowledge and human effort in feature design is a major advantage. They also reduce the number of parameters to be learned with their shared-weights architecture and possess translation invariance characteristics.
+
 *    **Traditional Machine Learning Method**
+
+SVM is a supervised machine learning technique which in general can be used in order to solve regression and classification problems, but it is more frequently used for the latter one. SVM is based on estimating the best possible hyperplane which can divide the points of the different groups in the data. The data may exist on multiple dimensions and the hyperplane is determined based on specific criteria which lead to the "best" possible seperation of the groups in the data, thus to achieve the proper classification of new data points. Also, the hyperplane can be set of specific nature (e.g. linear, polynomial).
