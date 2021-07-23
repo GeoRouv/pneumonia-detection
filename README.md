@@ -35,6 +35,6 @@ Diagnosis is often based on symptoms and physical examination. An important test
 
 ## **Detection Process**
 
-*    Neural Network Approach
+*    **Neural Network Approach**
 
-*    Traditional Machine Learning Method
+*    **Traditional Machine Learning Method**
