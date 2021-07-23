@@ -1,7 +1,7 @@
 # pneumonia-detection
 A two-headed classification model to detect pneumonia using neural networks and traditional machine learning.
 
-<br><div><img src="intro_image.png" width="400"></div><br>
+<br><div><img src="./readme_images/intro_image.png" width="400"></div><br>
 
 ## Notes
 Due to the big ammount of the data needed to train the models ("chest_xray") it was not possible to include them in the uploaded ZIP file. In order to rerun the Jupyter notebok, a folder named "Data" should be created, which folder should contain the folder "chest_xray" which has the data as they were downloaded from [kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia). Also, the results from the models and from some specific preprocessing steps are already provided, along with certain images, which could also be presented if the Jupyter notebook is executed.
@@ -27,7 +27,7 @@ Viruses are the second most common cause of pneumonia. Many kinds cause the dise
 
 Fungi are a less common cause of pneumonia. It is not likely to get fungal pneumonia if the person is healthy. 
 
-<br><div><img src="types_pneumonias.png" width="600"></div><br>
+<br><div><img src="./readme_images/types_pneumonias.png" width="600"></div><br>
 
 ## **Diagnosis**
 
@@ -37,7 +37,7 @@ Diagnosis is often based on symptoms and physical examination. An important test
 
 *    **Neural Network Approach**
 
-<div><img src="cnn.png" width="500"></div><br>
+<div><img src="./readme_images/cnn.png" width="500"></div><br>
 
 CNNs are deep neural networks for which the primarily used input is images. CNNs learn the filters (features) that are hand-engineered in traditional algorithms. This independence from prior knowledge and human effort in feature design is a major advantage. They also reduce the number of parameters to be learned with their shared-weights architecture and possess translation invariance characteristics.
 
