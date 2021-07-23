@@ -37,6 +37,6 @@ Diagnosis is often based on symptoms and physical examination. An important test
 
 *    **Neural Network Approach**
 
-<br><div><img src="cnn.png" width="500"></div><br>
+<div><img src="cnn.png" width="500"></div><br>
 
 *    **Traditional Machine Learning Method**
