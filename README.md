@@ -27,4 +27,4 @@ Viruses are the second most common cause of pneumonia. Many kinds cause the dise
 
 Fungi are a less common cause of pneumonia. It is not likely to get fungal pneumonia if the person is healthy. 
 
-<br><div><img src="types_pneumonias.png" width="400"></div><br>
+<br><div><img src="types_pneumonias.png" width="600"></div><br>
