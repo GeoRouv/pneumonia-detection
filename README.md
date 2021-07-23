@@ -28,3 +28,9 @@ Viruses are the second most common cause of pneumonia. Many kinds cause the dise
 Fungi are a less common cause of pneumonia. It is not likely to get fungal pneumonia if the person is healthy. 
 
 <br><div><img src="types_pneumonias.png" width="600"></div><br>
+
+## **Diagnosis**
+
+Diagnosis is often based on symptoms and physical examination. An important test for making a diagnosis of pneumonia is a chest x-ray. Chest x-rays can reveal areas of opacity (seen as white) which represent consolidation. Pneumonia is not always seen on x-rays, either because the disease is only in its initial stages, or because it involves a part of the lung not easily seen by x-ray.
+
+
