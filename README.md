@@ -2,7 +2,7 @@
 A two-headed classification model to detect pneumonia using neural networks and traditional machine learning.
 
 ## Notes
-Due to the big amount of the data needed to train the models ("chest_xray") it was not possible to include them in the uploaded ZIP file. In order to rerun the Jupyter notebok, a folder named "Data" should be created, which folder should contain the folder "chest_xray" which has the data as they were downloaded from [kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia). The whole code can be found in *pneumonia_detection.ipynb*.
+Due to the big amount of the data needed to train the models ("chest_xray") it was not possible to include them in the uploaded ZIP file. In order to rerun the Jupyter notebok, a folder named "Data" should be created, which folder should contain the folder "chest_xray" that holds the data as they were downloaded from [kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia). The whole code can be found in *pneumonia_detection.ipynb*.
 
 ## **What is pneumonia?**
 
